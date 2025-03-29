@@ -64,4 +64,4 @@ See the full [Instruction Set Documentation](docs/instruction-set.md).
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/8-bit-computer-logisim.git
+   git clone https://github.com/abhi2002-tech/8-bit-computer-logisim
