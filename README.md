@@ -62,6 +62,11 @@ See the full [Instruction Set Documentation](docs/instruction-set.md).
 - [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution) (version 3.7.2+).
 
 ### Steps
-Clone this repository:
+1.Clone this repository:
    ```bash
    git clone https://github.com/abhi2002-tech/8-bit-computer-logisim
+## How to Run
+1. Install [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution).
+2. Open `circuits/main.circ`.
+3. Load `examples/fibonacci.hex` into RAM.
+4. Start the clock!   
